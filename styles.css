@@ -1,0 +1,52 @@
+/* add your CSS here */
+* {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	border: 1px solid none;
+	border-radius: 5px;
+	background-color: honeydew;
+	box-shadow: 5px 5px 5px 5px #608a8a;
+	max-width: 300px;
+	padding: 15px;
+	margin: 10px auto;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 30px;
+	padding: 5px 0px 15px 0px;
+}
+
+#details {
+	border: 1px solid rgb(230, 230, 230);
+	width: 280px;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+.fact {
+	font-style: italic;
+	font-size: 15px;
+	padding-bottom: 15px;
+}
+
+ul {
+	list-style: none;
+	padding: 10px 0 10px 0;
+}
+
+li {
+	padding-bottom: 3px;
+}
+
+span {
+	font-weight: bold;
+}
+
+.desc {
+	font-size: 15px;
+}
